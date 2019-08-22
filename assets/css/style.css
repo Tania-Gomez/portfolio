@@ -1,0 +1,45 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar ul {
+  font-family: 'Open-Sans', sans-serif;
+}
+
+.bg-purple {
+  background-color: #660066;
+}
+
+.jumbotron {
+  background-image: url('../img/bg-tania.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+  height: 737px;
+}
+
+.interlineado21 {
+  line-height: 2.1;
+}
+
+hr.rayita-wh {
+  border-top: 2px solid white;
+  width: 100px;
+}
+
+hr.rayita-wh2 {
+  border-top: 3px solid black;
+  width: 100px;
+}
+
+.carousel-indicators {
+  top: 250px;
+}
+
+.carousel-indicators li {
+  width: 6px;
+  height: 10px;
+  border-color: #660066;
+  border-radius: 50%;
+}
